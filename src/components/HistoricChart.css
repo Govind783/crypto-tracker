@@ -1,0 +1,26 @@
+.graph {
+    width: 70%;
+    display: flex;
+    padding: 40px;
+    margin-top: 25px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+
+
+.contain {
+
+    top: 14%;
+    position: absolute;
+    left: 24%;
+    width: 78%;
+    display: flex;
+    padding: 40px;
+    margin-top: 25px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    height: 70%;
+}

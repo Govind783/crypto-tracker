@@ -1,0 +1,57 @@
+.line{
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    background: white;
+    right: 72%;
+    top: 11%;
+
+}
+.imgg{
+    width: 11%;
+    position: absolute;
+    top: 14%;
+    right: 82%;
+}
+.coin-name{
+    position: absolute;
+    top: 41%;
+    right: 81%;
+    text-transform: uppercase;
+
+}
+.container{
+    
+        display:flex;
+        flex-wrap:wrap;
+        width:200px;
+        text-align: justify;
+        word-wrap: break-word;
+      
+   
+}
+
+.desc{
+    margin-right: 74%;
+    padding: 25;
+    padding-bottom: 15;
+    padding-top: 0;
+    margin-top: 6%;
+    text-align: center;
+}
+.rankk{
+   position: absolute;
+     top: 75%;
+    right: 78%;
+    color: gold;
+    white-space: nowrap;
+}
+.ran{
+    color: gold;
+    position: absolute;
+     top: 81%;
+    right: 87%;
+    text-align: center;
+}
+
+

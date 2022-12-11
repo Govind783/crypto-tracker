@@ -1,0 +1,16 @@
+.all{
+    display:flex;
+    position: relative;
+    top: 30%;
+}
+
+.name{
+    position: relative;
+    top: 96%;
+    height: 10%;
+    right: 46%;
+}
+.rank{
+    display: block;
+    opacity: 0;
+}

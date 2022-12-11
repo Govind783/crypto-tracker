@@ -1,0 +1,68 @@
+.mar{
+    margin-bottom: 11%;
+    margin-top: 11%;
+}
+
+.border-head{
+    position: absolute;
+    width:88%;
+    height: 8%;
+    background-color: rgb(238, 188, 29);
+    top: 104%;
+}
+
+.nam{
+    position: absolute;
+    top: 106.6%;
+    height: 10%;
+    right: 46%;
+    color: #0d0b0b;
+    z-index: 1;
+    left: 8%;
+    text-transform: uppercase;
+    
+}
+
+.price{
+    position: absolute;
+    top: 106.6%;
+    height: 10%;
+    right: 46%;
+    color: #0d0b0b;
+    z-index: 1;
+    left: 38%;
+    text-transform: uppercase;
+}
+.chan{
+    position: absolute;
+    top: 106.6%;
+    height: 10%;
+    right: 46%;
+    color: #0d0b0b;
+    z-index: 1;
+    left: 48%;
+    text-transform: uppercase;
+    white-space: nowrap
+}
+.cap{
+    position: absolute;
+    top: 106.6%;
+    height: 10%;
+    right: 46%;
+    color: #0d0b0b;
+    z-index: 1;
+    left: 73%;
+    text-transform: uppercase;
+    white-space: nowrap
+}
+
+.inp{
+    position: absolute;
+    top: 130%;
+    transition: all 250ms;
+    border: 2px solid white;
+}
+.inp:hover{
+    outline: none;
+    border: 2px solid white;
+}

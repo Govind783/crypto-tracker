@@ -1,0 +1,31 @@
+body{
+    background-color: #181a1b;
+    color: white;
+    overflow-x: hidden;
+
+}
+
+
+.mob{
+    display: none;
+}
+
+
+@media (max-width : 1070px) {
+    #root{
+        display: none;
+    }
+
+    .mob{
+        display: flex;
+        position: relative;
+        top: 20rem;
+        left: 0rem;
+        justify-content: center;
+        max-width: 100%;
+        height: auto;
+        width: auto;
+    }
+
+    
+}
